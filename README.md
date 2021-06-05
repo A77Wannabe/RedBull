@@ -1,2 +1,13 @@
 # RedBull
-Search Engine To Find All Social Media Of Your Target
+
+# How To Install
+
+$apt update -y
+
+$apt upgrade -y
+
+$pkg install git -y
+
+$pkg install bash
+
+$git
